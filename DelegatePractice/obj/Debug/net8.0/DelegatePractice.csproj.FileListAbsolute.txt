@@ -12,3 +12,4 @@ D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\refint\Delega
 D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.pdb
 D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.genruntimeconfig.cache
 D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\ref\DelegatePractice.dll
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.sourcelink.json
