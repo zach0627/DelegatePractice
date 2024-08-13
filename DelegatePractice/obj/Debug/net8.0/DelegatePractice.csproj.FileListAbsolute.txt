@@ -1,0 +1,14 @@
+D:\repo\backend\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.exe
+D:\repo\backend\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.deps.json
+D:\repo\backend\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.runtimeconfig.json
+D:\repo\backend\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.dll
+D:\repo\backend\DelegatePractice\DelegatePractice\bin\Debug\net8.0\DelegatePractice.pdb
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.AssemblyInfoInputs.cache
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.AssemblyInfo.cs
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.csproj.CoreCompileInputs.cache
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.dll
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\refint\DelegatePractice.dll
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.pdb
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\DelegatePractice.genruntimeconfig.cache
+D:\repo\backend\DelegatePractice\DelegatePractice\obj\Debug\net8.0\ref\DelegatePractice.dll
